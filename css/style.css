@@ -1,15 +1,15 @@
 
-@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+@import 'https://fonts.googleapis.com/css?family=Questrial:400,700';
 
 :root {
-  --color-main: #45529d;
-  --color-hide: #8188ae;
-  --color-hide-dark: #7178a0;
-  --color-add: #34baec;
-  --color-add-dark: #2ca6d2;
-  --color-remove: #b8555e;
-  --color-remove-light: #cb636c;
-  --color-remove-dark: #9a3942;
+  --color-main: #472D30;
+  --color-hide: #723D46;
+  --color-hide-dark: #5D353B;
+  --color-add: #E26D5C;
+  --color-add-dark: #AA5551;
+  --color-remove: #A6A887;
+  --color-remove-light: #898B70;
+  --color-remove-dark: #97997B;
 }
 
 * {
@@ -20,7 +20,7 @@ body {
   color: #222;
   line-height: 1.5;
   padding: 0 0 40px 0;
-  background: #d5e4ef;
+  background: #FFE1A8;
   margin: 0;
 }
 .wrapper {
