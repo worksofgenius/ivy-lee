@@ -22,4 +22,4 @@ Project is created with:
 * GitHub Pages
 	
 ## Visit
-To visit this project, go to: 
+To visit this project, go to: https://worksofgenius.github.io/ivy-lee/
